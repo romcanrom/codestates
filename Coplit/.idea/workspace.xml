@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6ea76dec-340f-4c7a-9f6e-c3093327471b" name="변경" comment="변경" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="29IqQGkraWk50c925Z7Fl8ec4V0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/baros/Documents/codestates/Coplit",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\baros\IdeaProjects\crushJava" />
+      <recent name="C:\Users\baros\IdeaProjects\crushJava\src" />
+      <recent name="C:\Users\baros\IdeaProjects\crushJava\src\effective" />
+      <recent name="C:\Users\baros\IdeaProjects\crushJava\.idea" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ReadVertically">
+    <configuration name="DivideStick" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="coplit.algorithm.DivideStick" />
+      <module name="Coplit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="coplit.algorithm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MissHouseMeal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="coplit.algorithm.MissHouseMeal" />
+      <module name="Coplit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="coplit.algorithm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReadVertically" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="coplit.daily.ReadVertically" />
+      <module name="Coplit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="coplit.daily.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RockPaperScissors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="coplit.review.RockPaperScissors" />
+      <module name="Coplit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="coplit.review.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="coplit.algorithm.NewChickenRecipe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="coplit.algorithm.NewChickenRecipe" />
+      <module name="Coplit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="coplit.algorithm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Coplit" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Coplit" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ReadVertically" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="6ea76dec-340f-4c7a-9f6e-c3093327471b" name="변경" comment="" />
+      <created>1652810929894</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652810929894</updated>
+      <workItem from="1652811280555" duration="3508000" />
+      <workItem from="1652831532223" duration="5454000" />
+      <workItem from="1652922117700" duration="8551000" />
+      <workItem from="1652944775833" duration="4771000" />
+      <workItem from="1652966739924" duration="21646000" />
+      <workItem from="1653049827740" duration="1713000" />
+      <workItem from="1653222308317" duration="12715000" />
+      <workItem from="1653280245647" duration="9000" />
+      <workItem from="1653304199726" duration="8519000" />
+      <workItem from="1653317050913" duration="2118000" />
+      <workItem from="1653349554963" duration="13523000" />
+      <workItem from="1653398278941" duration="6617000" />
+      <workItem from="1653435539479" duration="13517000" />
+      <workItem from="1653523705829" duration="24625000" />
+      <workItem from="1653565723905" duration="11753000" />
+      <workItem from="1653609376879" duration="22017000" />
+      <workItem from="1653714612317" duration="618000" />
+      <workItem from="1653744940128" duration="1823000" />
+      <workItem from="1653811401999" duration="8048000" />
+      <workItem from="1653867941117" duration="20418000" />
+      <workItem from="1653956171010" duration="7289000" />
+      <workItem from="1654000485628" duration="2255000" />
+      <workItem from="1654100311813" duration="1474000" />
+      <workItem from="1654129590829" duration="20457000" />
+      <workItem from="1654171064392" duration="11141000" />
+      <workItem from="1654214627955" duration="24121000" />
+      <workItem from="1654257553014" duration="842000" />
+      <workItem from="1657758143265" duration="1665000" />
+      <workItem from="1658102029615" duration="704000" />
+      <workItem from="1658132031130" duration="345000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
