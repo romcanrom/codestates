@@ -74,13 +74,6 @@ public class JwtAuthenticationFilter extends UsernamePasswordAuthenticationFilte
              Granted Authorities=[springsecurity.jwtauthentication.oatuh.PrincipalDetails$$Lambda$1253/0x00000008008e4040@5ec609a]]
 */
 
-            //getPrincipal() -> 인증 객체에서 principal(여기서는 username)을 가져와 반환 < ??
-            PrincipalDetails principalDetails = (PrincipalDetails) authentication.getPrincipal();
-            log.info("principalDetails={}", principalDetails);
-/*
-            principalDetails=PrincipalDetails(member=Member(id=1, username=arom, password=$2a$10$Ul43ofJ/dapR72XRo4qVU.w7XfUSb2Id1SOSxjCasYz/ViiLJ9q76, roles=ROLE_USER))
-*/
-
             return authentication;
 
         } catch (IOException e) {
